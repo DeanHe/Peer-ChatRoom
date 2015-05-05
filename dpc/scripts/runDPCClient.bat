@@ -1,0 +1,1 @@
+java -cp .; client.MainScreen 1
